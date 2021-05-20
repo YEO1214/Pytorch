@@ -2,6 +2,7 @@
 
 Original https://github.com/ultralytics/yolov5
 
+
 ## 마스크 착용 유무 탐지
 - dataset 출처 https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format
 - 이미지 데이터와 라벨 데이터 통합 dataset.zip
